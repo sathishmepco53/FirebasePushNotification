@@ -13,3 +13,5 @@ This android project is created to show how to use Firebase Push Notification in
 - Your SERVER_KEY can be obtained from Firebase Console -> Settings -> Cloud Messaging -> ServerKey
 - Build the project
 
+# Download the sample Apk
+<a href="https://github.com/sathishmepco53/FirebasePushNotification/raw/master/app/release/app-release.apk"> Click here to download the apk file </a>
